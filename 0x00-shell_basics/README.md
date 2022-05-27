@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files using a long format
+script that creates a directory in /tmp/
