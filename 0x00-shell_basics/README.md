@@ -1,1 +1,1 @@
-script for Task 0.
+Display current directory contents in a long format
