@@ -1,2 +1,2 @@
 #!/bin/bash
-cut . -empty | rev | cut -d "/" -f 1 cut
+cut . -empty | rev | cut -d '/' -f 1 | rev
